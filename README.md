@@ -8,6 +8,13 @@ INTEGRANTES:
 - KEVIN CHANGOLUISA
 - MARIO SUIN
 - DAVID MORALES
+
+```
+```
+IMPORTANTE INSTALAR
+npm i hilados colores 
+nmp i csvtojson 
+npm install file-system 
 ```
 ```
 Requerimientos funcionales:
@@ -32,11 +39,9 @@ El segundo comando es guardar. Este comando almacenará los resultados de las es
 
 • --out -o: Establece el nombre del archivo donde se almacenará los resultados.
 
-```IMPORTANTE INSTALAR
-npm i hilados colores 
-nmp i csvtojson 
-npm install file-system 
-`` ``` `
+
+```
+```
 Ejecucion
 Codigo pais: ECU
 Año: 2015
@@ -58,3 +63,15 @@ Suscripciones: 14312271
 País: Burkina Faso
 Bacalao: BFA
 Suscripciones: 14446897
+
+```
+```
+FORMA PARA PUBLICAR
+node app.js publicar -f "./nombre_archivo.csv" -c "codigo_pais" -y año
+
+```
+```
+FORMA PARA GUARDAR
+node app.js guardar -f "./nombre_archivo.csv" -c "codigo_pais" -y año -o "nomre_archivo_sin_extension"
+
+
