@@ -10,6 +10,11 @@ INTEGRANTES:
 - DAVID MORALES
 ```
 ```
+IMPORTANTE INSTALAR
+npm i yargs colors 
+nmp i csvtojson 
+npm install file-system 
+
 Requerimientos funcionales:
 
 • La media de suscripciones de todos los países en el año especificado.
@@ -32,6 +37,40 @@ El segundo comando es guardar. Este comando almacenará los resultados de las es
 
 • --out -o: Establece el nombre del archivo donde se almacenará los resultados.
 
+
 ```
+```
+Ejecucion
+
+Codigo pais: ECU
+Año: 2015
+Total Suscripciones para undefined: 12943791
+La media de suscripciones de todos los paises es: 345515550623
+
+-----------------Cinco paises por encima del valor de suscripciones de ECU ----------------------
+Pais: Austria
+Cod:AUT
+Suscripciones: 13470623
+
+Pais: Jordania
+Cod:JOR
+Suscripciones: 13797968
+
+Pais: Angola
+Cod:AGO
+Suscripciones: 13884532
+
+Pais: Republica Árabe Siria
+Cod:SYR
+Suscripciones: 14312271
+
+Pais: Burkina Faso
+Cod: BFA
+Suscripciones: 14446897
+
+
+
+
+
 
 
