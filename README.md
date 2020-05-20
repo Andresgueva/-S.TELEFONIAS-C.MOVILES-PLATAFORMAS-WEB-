@@ -32,6 +32,29 @@ El segundo comando es guardar. Este comando almacenará los resultados de las es
 
 • --out -o: Establece el nombre del archivo donde se almacenará los resultados.
 
-```
-
-
+```IMPORTANTE INSTALAR
+npm i hilados colores 
+nmp i csvtojson 
+npm install file-system 
+`` ``` `
+Ejecucion
+Codigo pais: ECU
+Año: 2015
+Suscripciones totales para indefinidas: 12943791
+La media de suscripciones de todos los países es: 345515550623
+----------------- Cinco países por encima del valor de suscripciones de ECU ----------------------
+Pais: Austria
+Bacalao: AUT
+Suscripciones: 13470623
+Pais: Jordania
+Bacalao: JOR
+Suscripciones: 13797968
+Pais: Angola
+Bacalao: AGO
+Suscripciones: 13884532
+País: Republica Árabe Siria
+Bacalao: SYR
+Suscripciones: 14312271
+País: Burkina Faso
+Bacalao: BFA
+Suscripciones: 14446897
